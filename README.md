@@ -1,18 +1,18 @@
 # Virtuoso 
-> blockquote 
+> UI Developer ( Front-end web Developer & UI/UX Designer )
 ---
-~~The world is flat.~~
 
-== very important words 
 
- ```
+
+
+```
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
 ```
-	`code`
+`code`
 <!--
 **muhammadali-mu/muhammadali-mu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
