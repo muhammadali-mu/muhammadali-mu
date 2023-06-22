@@ -3,7 +3,7 @@
 ---
 ~~The world is flat.~~
 
-==very important words==.
+== very important words ==
 
  ```
 {
