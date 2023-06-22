@@ -1,19 +1,17 @@
 # Virtuoso 
 > blockquote 
 ---
-	~~The world is flat.~~
-<!--
+~~The world is flat.~~
+==very important words==.
 
-	I need to highlight these ==very important words==.
-
- 	```
+ ```
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
 ```
-
+<!--
 **muhammadali-mu/muhammadali-mu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,6 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-	Here's a sentence with a footnote. [^1]
+
 
 [^1]: This is the footnote.
