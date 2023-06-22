@@ -5,3 +5,6 @@
  
 ![🦆 icon _linkedin_](https://github.com/muhammadali-mu/muhammadali-mu/assets/71942347/6831b935-1ccc-4fc6-87ac-cb4ad678c452) <https://www.linkedin.com/in/muhammadali-mu/>
 
+- [x] UI/UX
+- [x] HTML Java-Script CSS
+- [x] React Next
