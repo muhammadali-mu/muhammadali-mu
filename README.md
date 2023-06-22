@@ -1,6 +1,12 @@
 # Virtuoso 
 ## UI Developer ( Front-end web Developer & UI/UX Designer )
 ***
+![AwsDiagram](https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/vitalibo/markdown-inline-svg/master/readme.md&name=aws.svg)
+
+<details> 
+<summary>SVG code</summary>
+
+```
 @aws.svg
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
@@ -456,6 +462,10 @@
     </g>
 </svg>
 @aws.svg
+```
+
+</details>
+
 
 
 
