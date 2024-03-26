@@ -1,5 +1,6 @@
-# :wave:  there im a
+# :wave: Hi there im a
 **Front-end Developer & UI/UX Designer**
+>Thrilled by the prospect of teaming up with like-minded developers and visionary designers, pooling our talents to sculpt digital experiences that redefine the boundaries of frontend development and UI/UX design
 
 ![🦆 icon _mail_](https://github.com/muhammadali-mu/muhammadali-mu/assets/71942347/41a02a21-fdba-46eb-84ca-b37a0b9a71dd) <alim8182@gmail.com>
  
